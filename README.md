@@ -7,6 +7,9 @@
  A simulação do atendimento das mensagens consiste em apenas retirar da fila a mensagem e escrever na tela de saída o conteúdo da mensagem empilhada e as informações do usuário que a enviou. 
  
  Para essa 2ª entrega da challenge, a tarefa dessa disciplina é:
+ 
  • Implementar a classe Cliente: nome e id devem ser os atributos; 
+ 
  • Implemente a classe Mensagem: lembrando que junto com o texto da mensagem em si devem ser incluídos id e nome do cliente que enviou a mensagem; 
+ 
  • Implementar a classe FilaMensagens: que armazena mensagens para serem lidas e respondidas.
